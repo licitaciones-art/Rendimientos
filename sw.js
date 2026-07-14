@@ -1,6 +1,6 @@
 const CACHE_NAME = 'rendimientos-io-v1';
 const ASSETS = [
-  './rendimientos_obra_IO_10_6.html',
+  './index.html',
   './manifest.json',
   './icon.svg'
 ];

@@ -1,7 +1,7 @@
 {
   "name": "Rendimientos en Obra — Interceptor Oriental",
   "short_name": "Rend. IO",
-  "start_url": "./rendimientos_obra_IO_10_6.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "any",
