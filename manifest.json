@@ -1,0 +1,14 @@
+{
+  "name": "Rendimientos en Obra — Interceptor Oriental",
+  "short_name": "Rend. IO",
+  "start_url": "./rendimientos_obra_IO_10_6.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f5f3ee",
+  "theme_color": "#1b4332",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
